@@ -13,6 +13,8 @@
   
 - 👨‍💻 You can talk to me about **Front-end development using HTML, CSS, SCSS, Tailwind, JavaScript, ReactJS, Jquery, Bootstrap...**
   
+- 📄 Know about my experiences **Fiver and UpWork marketplace...**
+
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **mdkafiluddinkawsar54@gmail.com**
