@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on **NFT Marketing**
 
 - 🌱 I’m currently learning **JavaScript, React JS, PHP, Laravel...**
+- 🌱 You can talk to me about **Front-end development using HTML, CSS, SCSS, Tailwind, JavaScript, ReactJS, Jquery, Bootstrap...**
 
 - 💬 Ask me about **Web Development**
 
